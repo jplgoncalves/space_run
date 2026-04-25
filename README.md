@@ -1,6 +1,8 @@
 # 🚀 Space Run - Open World Space Explorer
 
-![Logo Space Run](img-space-run.png)
+<p align="center">
+  <img src="img-space-run.png" alt="Space Run Logo" width="500">
+</p>
 
 Um jogo de exploração espacial em mundo aberto desenvolvido em **Go (Golang)** utilizando o motor gráfico **Ebitengine**. O projeto desafia o jogador a navegar por um universo vasto, cumprindo missões de exploração em diversos setores espaciais.
 
